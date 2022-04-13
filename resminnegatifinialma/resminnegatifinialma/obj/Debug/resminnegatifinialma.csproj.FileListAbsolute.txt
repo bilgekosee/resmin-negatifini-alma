@@ -1,0 +1,10 @@
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\bin\Debug\resminnegatifinialma.exe.config
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\bin\Debug\resminnegatifinialma.exe
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\bin\Debug\resminnegatifinialma.pdb
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.csproj.AssemblyReference.cache
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.Form1.resources
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.Properties.Resources.resources
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.csproj.GenerateResource.cache
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.csproj.CoreCompileInputs.cache
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.exe
+D:\goruntu_isleme\resminnegatifinialma\resminnegatifinialma\obj\Debug\resminnegatifinialma.pdb
